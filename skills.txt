@@ -1,0 +1,7 @@
+1) Terminal
+2) GitHub
+3) Postman
+4) JSON
+5) XML
+6) SQL
+7) Python
