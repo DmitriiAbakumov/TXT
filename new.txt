@@ -1,0 +1,5 @@
+FirstName : Dmitrii
+LastName : Abakumov
+Age : 26
+Pets : 0
+Desired Salary : 660 dollars
