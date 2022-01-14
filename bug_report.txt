@@ -2,9 +2,9 @@ ID
 Summary
 Project
 Severity
-Priority
+Priority : Высокий
 Status
-Author
+Author : Дмитрий
 Assigned To
 Environment
 STR
